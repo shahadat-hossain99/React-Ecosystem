@@ -92,7 +92,7 @@ const NavBar = () => {
         </li>
       </ul> */}
 
-      <button>Sign In</button>
+      <button className="btn btn-info">Sign In</button>
     </nav>
   );
 };
