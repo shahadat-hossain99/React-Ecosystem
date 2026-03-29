@@ -15,7 +15,7 @@ const PricingOptions = ({ pricingPromise }) => {
 
   return (
     <div>
-      <h1 className="text-5xl text-center my-16">Get Our MemberShip</h1>
+      <h1 className="text-5xl text-center my-16">Our MemberShips</h1>
 
       <div className="grid md:grid-cols-2  lg:grid-cols-3 gap-8">
         {/* Card From scratch by me */}
