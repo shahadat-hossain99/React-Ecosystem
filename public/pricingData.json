@@ -36,6 +36,7 @@
     "id": 3,
     "name": "Premium Plan",
     "price": "$50",
+    "popular": "true",
     "duration": "month",
     "description": "Best for serious fitness enthusiasts who want full support, personal training, and premium facilities.",
     "features": [
